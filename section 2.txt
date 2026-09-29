@@ -1,0 +1,6 @@
+font:Sitka]
+size:28p]
+
+Hello, my name is Riley. I am a 16-year-old student with a broad and interdisciplinary way of thinking, combining interests across Technology - Science - Design.
+I enjoy exploring complex ideas, questioning how things work, and connecting concepts from different areas to create new perspectives.
+Through my studies and personal projects, I am developing skills in analysis, communication, innovation, and critical thinking. This website is a place where I share my projects, ideas, and the things I learn as I continue exploring the connections between science, technology, and the world around us.
